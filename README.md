@@ -30,9 +30,13 @@ A digital math clock to upset your friends
    - `Minute Set` to `D8`
 
 ## Making the box
- - Use a laser cutter to cut the `BoxLaserCutout.svg` our of `1/8th "` material
+ - Use a laser cutter to cut the `BoxLaserCutout.svg` out of `1/8th "` material
  - Use your human eyes, brain and fingers to assemble the box.
  - Use the screws the mount the screen and buttons
 
+## Moving the code
+ - Use the program `Arduino 2` and open `MathClock/MathClock.ino`
+ - Plug in your wired up `Arduino Nano`
+ - Deploy the code
 
 Enjoy all the fun math!
